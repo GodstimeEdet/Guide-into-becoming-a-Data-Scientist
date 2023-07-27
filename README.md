@@ -60,7 +60,7 @@ Complete Around 20-25 Algorithms Both ssupervised And Unsupervised ML
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
 
 
-## Best Affordable Data Science Course From Pwskills(6-7 Months)
+## Best Affordable Data Science Course From Neocloud(4-5 Months)
 
 Neo Cloud Technologies : https://internship.ineuron.ai/
 
