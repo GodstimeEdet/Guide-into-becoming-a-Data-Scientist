@@ -62,5 +62,5 @@ Complete Around 20-25 Algorithms Both ssupervised And Unsupervised ML
 
 ## Best Affordable Data Science Course From Neocloud(4-5 Months)
 
-Neo Cloud Technologies : https://internship.ineuron.ai/
+Neo Cloud Technologies : https://techneo.ng/
 
